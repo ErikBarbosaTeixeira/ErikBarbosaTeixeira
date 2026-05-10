@@ -2,7 +2,7 @@
 
 **`Estudante ADS`**
 
-Me chamo Erik Barbosa Teixeira, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICSUL. Sou apaixonado por tecnologia dês de pegueno, e sempre busco me aperfeiçoar no ramo de tecnologia!
+Me chamo Erik Barbosa Teixeira, tenho 19 anos e sou natural de São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na UNICSUL. Sou apaixonado por tecnologia desde pegueno, e sempre busco me aperfeiçoar no ramo de tecnologia!
 
 <p align="left">
     </a>
