@@ -7,7 +7,7 @@ Me chamo Erik Barbosa Teixeira, tenho 19 anos e sou natural de São Paulo. Atual
 <p align="left">
     </a>
       <a href="https://www.instagram.com/teixeirazz_._/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/erik-barbosa-teixeira-ab3960368/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="[https://www.linkedin.com/in/erik-barbosa-teixeira-ab3960368/](https://www.linkedin.com/in/erik-teixeira-/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </p>
 ---
 
